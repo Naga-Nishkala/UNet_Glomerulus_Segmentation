@@ -1,2 +1,3 @@
-# UNet_Glomerulus_Segmentation
- 
+# UNet_Series
+UNet family of image segmentation algorithms
+- Used Tensorflow
